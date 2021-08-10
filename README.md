@@ -1,1 +1,1 @@
-Thi is Tabatha's first project!
+This is Tabatha's first project!
